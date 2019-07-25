@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="9" failures="0" name="mx.unam.ciencias.edd.test.TestArbolRojinegro" time="0.071" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.3+12-LTS"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/jdk-11.0.3/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/Chomi/Java/Canek/Estructuras-de-Datos-2019-2/practica4"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/Chomi/Java/Canek/Estructuras-de-Datos-2019-2/practica4"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.3+12-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/share/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="maven.conf" value="/usr/share/maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="5.1.6-300.fc30.x86_64"/>
+    <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
+    <property name="user.home" value="/home/Chomi"/>
+    <property name="user.timezone" value="America/Mexico_City"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="Chomi"/>
+    <property name="java.class.path" value="/usr/share/java/plexus-classworlds.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="/usr/lib/jvm/jdk-11.0.3"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.3"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/share/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2019-04-16"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testElimina" time="0.001"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testGetColor" time="0"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testToString" time="0.052"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testGiraDerecha" time="0.005"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testAgrega" time="0.003"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testEquals" time="0.002"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testGiraIzquierda" time="0.002"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testConstructorColeccion" time="0.006"/>
+  <testcase classname="mx.unam.ciencias.edd.test.TestArbolRojinegro" name="testConstructor" time="0"/>
+</testsuite>
